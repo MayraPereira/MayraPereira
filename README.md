@@ -1,4 +1,6 @@
-### Olá, eu sou a Mayra Pereira
+![github-header-image](https://github.com/MayraPereira/MayraPereira/blob/main/github-header-image%20(5).png?raw=true)
+
+<!--### Olá, eu sou a Mayra Pereira-->
 
 
 - 🔭 Hoje trabalho como Auxiliar de Tecnologia da Informação
