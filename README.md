@@ -4,8 +4,8 @@
 
 
 - 🔭 Hoje trabalho como Auxiliar de Tecnologia da Informação
-- 🌱 Estudando HTML, CSS, JavaScript
-- 😄 Pronouns: ela/dela
+<!-- 🌱 Estudando HTML, CSS, JavaScript, -->
+<!-- 😄 Pronouns: ela/dela -->
 
 ## ⚙️  GitHub Analytics
 <div align="center">
