@@ -3,7 +3,7 @@
 ### <h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou a Mayra Pereira</h1>
 
 
-- 🔭 Hoje trabalho como Auxiliar de Tecnologia da Informação
+- 💻 Auxiliar de Tecnologia da Informação
 <!-- 🌱 Estudando HTML, CSS, JavaScript, -->
 <!-- 😄 Pronouns: ela/dela -->
 
