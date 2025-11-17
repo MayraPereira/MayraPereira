@@ -3,16 +3,16 @@
 ### <h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou a Mayra Pereira</h1>
 
 
-- 💻 Auxiliar de Tecnologia da Informação
-<!-- 🌱 Estudando HTML, CSS, JavaScript, -->
+- 💻 Analista de Sistema
+- 🌱 Estudando HTML, CSS, JavaScript
 <!-- 😄 Pronouns: ela/dela -->
 
-## ⚙️  GitHub Analytics
-<div align="center">
+<!-- ## ⚙️  GitHub Analytics -->
+<!--<div align="center">
   <a href="https://github.com/MayraPereira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayraPereira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayraPereira&layout=compact&langs_count=7&theme=radical"/>
-</div>
+</div>-->
 
 ## 🛠  Linguagens e Ferramentas
 <div style="display: inline_block"><br>
